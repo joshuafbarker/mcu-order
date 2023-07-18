@@ -4,6 +4,7 @@
   "scripts": {
     "scrape": "node lib/scraper.js",
     "test": "echo 'test'",
+    "build": "eleventy",
     "start": "eleventy --serve"
   },
   "dependencies": {
